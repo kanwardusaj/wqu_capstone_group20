@@ -6,7 +6,8 @@ Annetta Namakobo
 Christian Ayemoma Apolaagoa
 Kanwar Dusaj
 
-E-mail
-anamakobo@yahoo.com
-ayemomac@yahoo.co.uk
-kanwar_dusaj@live.in
+Step 1 -
+
+Install requirements.txt using below command -
+
+Run pip install -r requirements.txt (Python 2), or pip3 install -r requirements.txt (Python 3)
