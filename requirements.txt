@@ -59,7 +59,7 @@ pytz==2019.2
 pyviz-comms==0.7.2
 PyWavelets==1.0.3
 pywinpty==0.5.5
-PyYAML==5.1.2
+PyYAML==5.4
 pyzmq==18.1.0
 requests==2.22.0
 scikit-image==0.15.0
